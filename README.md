@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mai-anh-truong-3b690a2a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Mai.Anh.Truongg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
+<a href="mailto:maianhtruong11122004@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
